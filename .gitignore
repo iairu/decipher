@@ -1,0 +1,59 @@
+# Clang
+*.o
+*.ko
+*.obj
+*.elf
+*.d
+*.bc
+*.ll
+.clangd/
+compile_commands.json
+.cache/
+
+# GCC
+*.so
+*.dylib
+*.dll
+*.lib
+*.a
+*.la
+*.exe
+*.out
+*.app
+
+# GDB
+.gdb_history
+*.gdb
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows XP & 7
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+*.stackdump
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
