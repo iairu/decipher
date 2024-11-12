@@ -1,0 +1,63 @@
+CC-BY 4.0 (c) iairu 2024
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+
+Under this license you are free to:
+- Share: copy and redistribute the material in any medium or format
+- Adapt: remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made
+
+To view the complete license, visit: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).
+
+Copyright (c) The OpenSSL Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use code from this project except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Under this License you are free to:
+- Use the Work for any purpose
+- Make modifications and derivative works
+- Redistribute the Work and modifications
+
+Under the following terms:
+- Include original copyright notice
+- Include copy of the license
+- State if you made changes
+- Preserve any third party notices
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+Adapts code from wanakiwi (https://github.com/gentilkiwi/wanakiwi/) repository.
+
+Original author:
+Benjamin DELPY `gentilkiwi`
+Website: http://blog.gentilkiwi.com
+Email: benjamin@gentilkiwi.com
+
+Licensed under Creative Commons Attribution 4.0 (CC-BY 4.0)
+This license allows others to:
+- Share and copy the code
+- Modify and build upon the code
+- Use commercially
+As long as appropriate credit is given to the original author
+
+Additional contributors:
+- msuiche
+- halsten 
+- malwareunicorn
+- adriengnt (aguinet) - Contributor to wannakey project, discovered method for retrieving private key prime numbers
